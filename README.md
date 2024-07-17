@@ -5,7 +5,8 @@ Nowadays, people face an increasing number of exams, such as mid-term exams, fin
 My project is a web application called the Universal Examination System, which features automatic grading. Teachers or exam administrators can publish exams online, and students or test-takers can answer questions online on the website. After completing the answers, the system can automatically grade and generate an exam report based on the results.
 ## Project demo
 Online demo server:http://3.26.188.237/
-![image](https://github.com/ZIHAAAN/Online_Examination_System/tree/master/Online_Examination_System/ImageUploads/File_20240718_004505_7bad8d5a-79d9-4640-9219-5991a640a646.png)
+
+![image](https://raw.githubusercontent.com/ZIHAAAN/Online_Examination_System/master/Online_Examination_System/ImageUploads/File_20240718_004505_7bad8d5a-79d9-4640-9219-5991a640a646.png)
 ## User steps
 Registration and Login
 Users need to register as a student or an administrator account based on their needs and log into the system before use.
